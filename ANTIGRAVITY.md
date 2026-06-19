@@ -23,3 +23,5 @@
 - **[2026-06-19]**
   1. 初始化專案基礎結構並串接 GitHub 與 Obsidian `知識庫`。
   2. 複製克隆語音專案 `voxcpm2-voice-cloner`，並在 macOS 上以 `uv` 完成 Python 3.12 虛擬環境建立與 `voxcpm`、`sounddevice` 依賴安裝，測試成功。
+  3. 將 Alan 聲音克隆打包為全域 AI 技能（Skill）[SKILL.md](file:///Users/alan/.gemini/config/skills/alan-voice-cloner/SKILL.md)，已完成指令綁定與功能測試。
+
