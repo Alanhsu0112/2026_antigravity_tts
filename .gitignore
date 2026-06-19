@@ -59,3 +59,15 @@ venv.bak/
 *.njsproj
 *.sln
 *.sw?
+
+# Audio Cloner Ignored Files
+*.wav
+*.m4a
+voices/
+**/voices/
+**/checkpoints/
+**/pretrained_models/
+*.safetensors
+*.pth
+.gpu_type
+**/output/
