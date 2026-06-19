@@ -20,4 +20,6 @@
    - 在專案開工/收工時，將狀態與 TODO 同步更新至 Obsidian 筆記庫。
 
 ## 📝 當前狀態與下一步
-- **[2026-06-19]** 初始化專案結構，建立 Git 儲存庫與 Obsidian 筆記。
+- **[2026-06-19]**
+  1. 初始化專案基礎結構並串接 GitHub 與 Obsidian `知識庫`。
+  2. 複製克隆語音專案 `voxcpm2-voice-cloner`，並在 macOS 上以 `uv` 完成 Python 3.12 虛擬環境建立與 `voxcpm`、`sounddevice` 依賴安裝，測試成功。
