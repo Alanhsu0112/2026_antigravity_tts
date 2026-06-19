@@ -7,7 +7,7 @@
 - **專案類型**：TTS (Text-to-Speech) 文字轉語音應用
 - **本地路徑**：`/Users/alan/Library/CloudStorage/GoogleDrive-alanhsu0112@gmail.com/我的雲端硬碟/2026_antigravity_tts`
 - **GitHub 儲存庫**：https://github.com/alanhsu0112/2026_antigravity_tts (預期)
-- **Obsidian 專案筆記**：[2026_antigravity_tts.md](file:///Users/alan/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/Alanhsu/2026_antigravity_tts.md)
+- **Obsidian 專案筆記**：[2026_antigravity_tts.md](file:///Users/alan/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/%E7%9F%A5%E8%AD%98%E5%BA%AB/2026_antigravity_tts.md)
 
 ## 🛠️ 開發規範與偏好
 1. **程式碼風格**：
